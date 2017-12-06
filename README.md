@@ -10,6 +10,6 @@ Applied and Industrial Mathematics
 Class of 2018
 
 
-###Project For the Courses:
+### Project For the Courses:
 
 [STAT 184 Final Project](https://yifeideng.github.io/STAT184_Final_Project/Final_Project_Yifei_Deng.html)
